@@ -1,0 +1,267 @@
+(footprint "TSB001A3518A"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "3.55mm 3.5mm Rectangle button 50mA Horizontal attachment 7.7mm 180gf 12V SMD Tactile Switches ROHS")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a45188ef-92d5-4e4c-8699-c7426c05ca78")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "TSB001A3518A"
+		(at 0 3.3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7629e5d9-b23d-4571-b9a5-c45140054ec4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588945089981001728"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb9267f0-abd9-4c9d-8bba-1b41919c4a55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76f7fdc2-0edf-4a64-bea6-ce5330bbc402")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -4.2 -1.35)
+		(end 4.2 2.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b51896c9-3bc3-4485-8a61-d9d700578d32")
+	)
+	(fp_rect
+		(start -4.35 -1.5)
+		(end 4.35 2.3)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "94cacb60-f8cb-4ecb-ba62-a8bfa8792f58")
+	)
+	(fp_line
+		(start -3.85 -1.1)
+		(end -3.85 0.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "547b11d1-f999-4efe-9160-bac0cbf89d8f")
+	)
+	(fp_line
+		(start -3.85 -1.1)
+		(end 3.85 -1.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "537e3eaf-9882-4e9b-a737-638223e39153")
+	)
+	(fp_line
+		(start -3.85 0.15)
+		(end -3.5 0.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9580209c-5038-438b-8f17-c9e493fe64ec")
+	)
+	(fp_line
+		(start -3.5 0.15)
+		(end -3.5 1.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "8a23f4cd-154a-44d6-aaaa-dda636c2dd2c")
+	)
+	(fp_line
+		(start -3.5 1.6)
+		(end 3.5 1.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "2dd17425-e4cc-480b-bbfb-66db3550544b")
+	)
+	(fp_line
+		(start -1.5 -2.2)
+		(end 1.5 -2.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "13326432-6f3a-4301-9be4-8e26e770699a")
+	)
+	(fp_line
+		(start -1.5 -1.1)
+		(end -1.5 -2.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "66d7792c-fcec-40bd-b30c-720b16996d7a")
+	)
+	(fp_line
+		(start 1.5 -2.2)
+		(end 1.5 -1.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "dabc437f-21af-4e33-b44b-5f41e70af8cf")
+	)
+	(fp_line
+		(start 3.5 0.15)
+		(end 3.5 1.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "aeb4cb38-a622-4194-9893-a8c93bb8db8b")
+	)
+	(fp_line
+		(start 3.85 -1.1)
+		(end 3.85 0.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "44d96af7-9985-4b98-b196-ce75331f86ac")
+	)
+	(fp_line
+		(start 3.85 0.15)
+		(end 3.5 0.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "5c5b2c14-cc30-48cc-b38c-281a1422159d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.05 4.85 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "684d8806-61aa-46a8-8b0a-301b7c6df075")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" smd custom
+		(at -3.7 -0.4)
+		(size 0.8 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_rect
+				(start 0.35 -0.85)
+				(end 1 -0.05)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "f8b8ace7-c7f6-4984-878f-cccdbd84fdcf")
+	)
+	(pad "" np_thru_hole circle
+		(at -1.15 0)
+		(size 0.8 0.8)
+		(drill 0.8)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "9778adc1-0ffe-4748-ae7a-a01baa029c61")
+	)
+	(pad "" np_thru_hole circle
+		(at 1.15 0)
+		(size 0.8 0.8)
+		(drill 0.8)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "c9500813-0f7c-4b66-be65-8f2dd004ed41")
+	)
+	(pad "" smd custom
+		(at 3.7 -0.4)
+		(size 0.8 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_rect
+				(start -1 -0.85)
+				(end -0.35 -0.05)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "245f7c85-ed0c-415e-ab19-6a17b9fce7ba")
+	)
+	(pad "1" smd rect
+		(at -2.1 1.45)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "f01271ca-483e-4d97-af81-eb5eb0f7465b")
+	)
+	(pad "2" smd rect
+		(at 2.1 1.45)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "8993e666-66aa-4520-9ac1-3ce26a61e14b")
+	)
+	(embedded_fonts no)
+)
