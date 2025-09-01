@@ -7716,7 +7716,7 @@
 		(uuid "7bbdd611-3886-42a4-8381-03e1d689104e")
 	)
 	(label "USB+"
-		(at 219.71 31.75 180)
+		(at 219.71 34.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7726,7 +7726,7 @@
 		(uuid "b7bfd01f-ee4a-44bf-aae0-c3cc4f9ec388")
 	)
 	(label "USB-"
-		(at 219.71 34.29 180)
+		(at 219.71 31.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
